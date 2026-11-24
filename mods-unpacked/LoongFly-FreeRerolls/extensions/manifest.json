@@ -1,0 +1,17 @@
+{
+	"name": "FreeRerolls",
+	"namespace": "LoongFly",
+	"version_number": "0.0.2",
+	"description": "Change the charge of Rerolls to FREE",
+	"website_url": "",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"incompatibilities": [],
+			"authors": ["LoongFly"],
+			"compatible_mod_loader_version": "6.2.0",
+			"compatible_game_version": ["1.1.0.0"],
+			"config_defaults": {}
+		}
+	}
+}
